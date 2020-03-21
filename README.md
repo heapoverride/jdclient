@@ -1,4 +1,4 @@
-[jdclient-logo](https://i.ibb.co/h13RjW8/jdclientjs.png)
+![jdclient-logo](https://i.ibb.co/h13RjW8/jdclientjs.png)
 
 ## Description
 JDClient is a simple wrapper built on top of Discord.js that can automatically do the command parsing for you.
