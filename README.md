@@ -1,7 +1,7 @@
 ![jdclient-logo](https://i.ibb.co/h13RjW8/jdclientjs.png)
 
 ## Description
-JDClient is a simple wrapper built on top of Discord.js that can automatically do the command parsing for you.
+JDClient is a simple wrapper built on top of [Discord.js](https://discord.js.org/) that can automatically do the command parsing for you.
 
 ## Example
 ```javascript
