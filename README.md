@@ -4,10 +4,10 @@
 JDClient is a simple wrapper built on top of [Discord.js](https://discord.js.org/) that can automatically do the command parsing for you.
 
 ## Events
-- ready `client, text, data`
-- message `jdclient, content, message`
-- debug `client, text, data`
-- error `client, text, data`
+- **ready** `{ client, text, data }`
+- **message** `{ jdclient, content, message }`
+- **debug** `{ client, text, data }`
+- **error** `{ client, text, data }`
 
 ## Minimal example
 ```javascript
