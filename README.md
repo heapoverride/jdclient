@@ -6,7 +6,7 @@ JDClient is a simple wrapper built on top of [Discord.js](https://discord.js.org
 ## Minimal Example
 ```javascript
 // import library
-const { JDClient } = require('./src/');
+const { JDClient, Discord } = require('./src/');
 
 /**
   * define minimum bot options
