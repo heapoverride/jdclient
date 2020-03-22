@@ -1,0 +1,30 @@
+{
+  "name": "jdclient",
+  "version": "1.0.0",
+  "description": "JDClient is a simple wrapper built on top of Discord.js that can automatically do the command parsing for you",
+  "main": "./src/index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UnrealSecurity/jdclient.git"
+  },
+  "keywords": [
+    "jdclient",
+    "discord",
+    "discord-js",
+    "discordbot",
+    "bots",
+    "bot"
+  ],
+  "author": "UnrealSecurity",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UnrealSecurity/jdclient/issues"
+  },
+  "homepage": "https://github.com/UnrealSecurity/jdclient#readme",
+  "dependencies": {
+    "discord.js": "^12.0.2"
+  }
+}
